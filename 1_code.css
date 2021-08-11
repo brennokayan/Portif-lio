@@ -10,11 +10,11 @@ html{
 }
 .content_img{
     display: flex;
-    margin-top: 150px;
-    margin-bottom:-35px ;
+    margin-top: 100px;
+    margin-bottom:-85px ;
     align-items: center;
     justify-content: center;
-    width: 250px;
+    width: 150px;
     height: 150px;
 }
 .content_img a img{
